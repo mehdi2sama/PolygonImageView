@@ -16,6 +16,8 @@ lint
 bin/
 gen/
 classes/
+# files for the dex VM
+*.dex
 gen-external-apklibs/
 
 # maven output folder
